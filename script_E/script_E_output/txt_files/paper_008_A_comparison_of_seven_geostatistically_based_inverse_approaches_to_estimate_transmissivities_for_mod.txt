@@ -1,0 +1,11 @@
+Title: A comparison of seven geostatistically based inverse approaches to estimate transmissivities for modeling advective transport by groundwater flow
+Authors: D.A. Zimmerman, Ghislain de Marsily, Carol A. Gotway, M.G. Marietta, Carl L. Axness
+Journal: Water Resources Research
+Publication Date: 1998-06-01
+DOI: 10.1029/98wr00003
+OpenAlex ID: https://openalex.org/W2051233814
+Citations: 323
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/98WR00003
+
+Abstract:
+No abstract available

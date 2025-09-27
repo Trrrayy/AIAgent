@@ -1,0 +1,11 @@
+Title: Forecasting Renewable Energy Generation with Machine Learning and Deep Learning: Current Advances and Future Prospects
+Authors: Natei Ermias Benti, Mesfin Diro Chaka, Addisu Gezahegn Semie
+Journal: Sustainability
+Publication Date: 2023-04-23
+DOI: 10.3390/su15097087
+OpenAlex ID: https://openalex.org/W4366826269
+Citations: 126
+PDF URL: https://www.mdpi.com/2071-1050/15/9/7087/pdf?version=1682323307
+
+Abstract:
+No abstract available

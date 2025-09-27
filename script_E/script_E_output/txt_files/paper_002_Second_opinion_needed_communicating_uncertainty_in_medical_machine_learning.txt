@@ -1,0 +1,11 @@
+Title: Second opinion needed: communicating uncertainty in medical machine learning
+Authors: Benjamin Kompa, Jasper Snoek, Andrew L. Beam
+Journal: npj Digital Medicine
+Publication Date: 2021-01-05
+DOI: 10.1038/s41746-020-00367-3
+OpenAlex ID: https://openalex.org/W3118929067
+Citations: 300
+PDF URL: https://www.nature.com/articles/s41746-020-00367-3.pdf
+
+Abstract:
+No abstract available

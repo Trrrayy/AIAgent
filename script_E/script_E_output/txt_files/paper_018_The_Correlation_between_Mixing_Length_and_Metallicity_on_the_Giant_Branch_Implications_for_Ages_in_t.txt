@@ -1,0 +1,11 @@
+Title: The Correlation between Mixing Length and Metallicity on the Giant Branch: Implications for Ages in the Gaia Era
+Authors: Jamie Tayar, Garrett Somers, Marc H. Pinsonneault, Dennis Stello, Alexey Mints
+Journal: The Astrophysical Journal
+Publication Date: 2017-04-28
+DOI: 10.3847/1538-4357/aa6a1e
+OpenAlex ID: https://openalex.org/W2607177416
+Citations: 103
+PDF URL: https://iopscience.iop.org/article/10.3847/1538-4357/aa6a1e/pdf
+
+Abstract:
+No abstract available

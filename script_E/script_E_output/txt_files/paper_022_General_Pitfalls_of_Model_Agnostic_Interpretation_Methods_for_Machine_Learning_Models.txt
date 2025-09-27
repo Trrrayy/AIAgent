@@ -1,0 +1,11 @@
+Title: General Pitfalls of Model-Agnostic Interpretation Methods for Machine Learning Models
+Authors: Christoph Molnar, Gunnar König, Julia Herbinger, Timo Freiesleben, Susanne Dandl
+Journal: Lecture notes in computer science
+Publication Date: 2022-01-01
+DOI: 10.1007/978-3-031-04083-2_4
+OpenAlex ID: https://openalex.org/W3194357095
+Citations: 104
+PDF URL: https://doi.org/10.1007/978-3-031-04083-2_4
+
+Abstract:
+No abstract available

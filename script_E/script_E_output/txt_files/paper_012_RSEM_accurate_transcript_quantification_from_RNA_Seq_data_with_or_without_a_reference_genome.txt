@@ -1,0 +1,11 @@
+Title: RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome
+Authors: Bo Li, Colin N. Dewey
+Journal: BMC Bioinformatics
+Publication Date: 2011-08-04
+DOI: 10.1186/1471-2105-12-323
+OpenAlex ID: https://openalex.org/W1999574084
+Citations: 19699
+PDF URL: https://bmcbioinformatics.biomedcentral.com/counter/pdf/10.1186/1471-2105-12-323
+
+Abstract:
+No abstract available

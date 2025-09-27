@@ -1,0 +1,11 @@
+Title: Short-Term Electricity Load Forecasting with Machine Learning
+Authors: Ernesto Aguilar Madrid, Nuno António
+Journal: Information
+Publication Date: 2021-01-22
+DOI: 10.3390/info12020050
+OpenAlex ID: https://openalex.org/W3122860865
+Citations: 138
+PDF URL: https://www.mdpi.com/2078-2489/12/2/50/pdf?version=1611313121
+
+Abstract:
+No abstract available

@@ -1,0 +1,11 @@
+Title: Prediction of rockhead using a hybrid N-XGBoost machine learning framework
+Authors: Xing Zhu, Jian Chu, Kangda Wang, Shifan Wu, Wei Yan
+Journal: Journal of Rock Mechanics and Geotechnical Engineering
+Publication Date: 2021-09-14
+DOI: 10.1016/j.jrmge.2021.06.012
+OpenAlex ID: https://openalex.org/W3199959176
+Citations: 125
+PDF URL: https://doi.org/10.1016/j.jrmge.2021.06.012
+
+Abstract:
+No abstract available

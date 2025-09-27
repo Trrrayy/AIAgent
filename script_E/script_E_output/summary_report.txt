@@ -1,0 +1,147 @@
+腳本E執行報告
+執行時間: 2025-09-27 05:15:34
+搜索關鍵詞: uncertainty prediction ML
+找到論文數: 23
+成功下載PDF: 4
+成功率: 17.4%
+
+論文列表:
+--------------------------------------------------
+ 1. Using Machine Learning to Parameterize Moist Convection: Potential for Modeling of Climate, Climate Change, and Extreme Events
+    期刊: Journal of Advances in Modeling Earth Systems
+    日期: 2018-10-01
+    DOI: 10.1029/2018ms001351
+    引用數: 418
+
+ 2. Second opinion needed: communicating uncertainty in medical machine learning
+    期刊: npj Digital Medicine
+    日期: 2021-01-05
+    DOI: 10.1038/s41746-020-00367-3
+    引用數: 300
+
+ 3. Fitting Linear Mixed-Effects Models Using<b>lme4</b>
+    期刊: Journal of Statistical Software
+    日期: 2015-01-01
+    DOI: 10.18637/jss.v067.i01
+    引用數: 73660
+
+ 4. Seismic moment assessment of earthquakes in stable continental regions-I. Instrumental seismicity
+    期刊: Geophysical Journal International
+    日期: 1996-02-01
+    DOI: 10.1111/j.1365-246x.1996.tb07028.x
+    引用數: 318
+
+ 5. Magnetic resonance quantification of the myocardial perfusion reserve with a Fermi function model for constrained deconvolution
+    期刊: Medical Physics
+    日期: 1998-01-01
+    DOI: 10.1118/1.598163
+    引用數: 438
+
+ 6. Identification and machine learning prediction of knee-point and knee-onset in capacity degradation curves of lithium-ion cells
+    期刊: Energy and AI
+    日期: 2020-04-23
+    DOI: 10.1016/j.egyai.2020.100006
+    引用數: 229
+
+ 7. Spatiotemporal continuous estimates of PM2.5 concentrations in China, 2000–2016: A machine learning method with inputs from satellites, chemical transport model, and ground observations
+    期刊: Environment International
+    日期: 2018-12-18
+    DOI: 10.1016/j.envint.2018.11.075
+    引用數: 300
+
+ 8. A comparison of seven geostatistically based inverse approaches to estimate transmissivities for modeling advective transport by groundwater flow
+    期刊: Water Resources Research
+    日期: 1998-06-01
+    DOI: 10.1029/98wr00003
+    引用數: 323
+
+ 9. Prediction of rockhead using a hybrid N-XGBoost machine learning framework
+    期刊: Journal of Rock Mechanics and Geotechnical Engineering
+    日期: 2021-09-14
+    DOI: 10.1016/j.jrmge.2021.06.012
+    引用數: 125
+
+10. Management of hypertensive disorders during pregnancy: summary of NICE guidance
+    期刊: BMJ
+    日期: 2010-08-25
+    DOI: 10.1136/bmj.c2207
+    引用數: 236
+
+11. Maximum likelihood Bayesian averaging of spatial variability models in unsaturated fractured tuff
+    期刊: Water Resources Research
+    日期: 2004-05-01
+    DOI: 10.1029/2003wr002557
+    引用數: 217
+
+12. RSEM: accurate transcript quantification from RNA-Seq data with or without a reference genome
+    期刊: BMC Bioinformatics
+    日期: 2011-08-04
+    DOI: 10.1186/1471-2105-12-323
+    引用數: 19699
+
+13. Uncertainty-driven dynamics for active learning of interatomic potentials
+    期刊: Nature Computational Science
+    日期: 2023-03-06
+    DOI: 10.1038/s43588-023-00406-5
+    引用數: 88
+
+14. How is machine learning useful for macroeconomic forecasting?
+    期刊: Journal of Applied Econometrics
+    日期: 2022-05-14
+    DOI: 10.1002/jae.2910
+    引用數: 150
+
+15. Application of Machine Learning to support production planning of a food industry in the context of waste generation under uncertainty
+    期刊: Operations Research Perspectives
+    日期: 2020-01-01
+    DOI: 10.1016/j.orp.2020.100147
+    引用數: 84
+
+16. A hybrid science‐guided machine learning approach for modeling chemical processes: A review
+    期刊: AIChE Journal
+    日期: 2022-01-23
+    DOI: 10.1002/aic.17609
+    引用數: 106
+
+17. Short-Term Electricity Load Forecasting with Machine Learning
+    期刊: Information
+    日期: 2021-01-22
+    DOI: 10.3390/info12020050
+    引用數: 138
+
+18. The Correlation between Mixing Length and Metallicity on the Giant Branch: Implications for Ages in the Gaia Era
+    期刊: The Astrophysical Journal
+    日期: 2017-04-28
+    DOI: 10.3847/1538-4357/aa6a1e
+    引用數: 103
+
+19. Multi-fidelity machine-learning with uncertainty quantification and Bayesian optimization for materials design: Application to ternary random alloys
+    期刊: The Journal of Chemical Physics
+    日期: 2020-08-19
+    DOI: 10.1063/5.0015672
+    引用數: 85
+
+20. Forecasting Renewable Energy Generation with Machine Learning and Deep Learning: Current Advances and Future Prospects
+    期刊: Sustainability
+    日期: 2023-04-23
+    DOI: 10.3390/su15097087
+    引用數: 126
+
+21. Recent Advances and Applications of Machine Learning in Experimental Solid Mechanics: A Review
+    期刊: Applied Mechanics Reviews
+    日期: 2023-07-17
+    DOI: 10.1115/1.4062966
+    引用數: 84
+
+22. General Pitfalls of Model-Agnostic Interpretation Methods for Machine Learning Models
+    期刊: Lecture notes in computer science
+    日期: 2022-01-01
+    DOI: 10.1007/978-3-031-04083-2_4
+    引用數: 104
+
+23. Evaluation of Machine Learning Classifiers for Predicting Deep Convection
+    期刊: Journal of Advances in Modeling Earth Systems
+    日期: 2019-05-09
+    DOI: 10.1029/2018ms001561
+    引用數: 80
+

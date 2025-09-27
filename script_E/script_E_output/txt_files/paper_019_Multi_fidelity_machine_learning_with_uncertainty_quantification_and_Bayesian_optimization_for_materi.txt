@@ -1,0 +1,11 @@
+Title: Multi-fidelity machine-learning with uncertainty quantification and Bayesian optimization for materials design: Application to ternary random alloys
+Authors: Anh Tran, Julien Tranchida, Timothy Wildey, Aidan P. Thompson
+Journal: The Journal of Chemical Physics
+Publication Date: 2020-08-19
+DOI: 10.1063/5.0015672
+OpenAlex ID: https://openalex.org/W3070184287
+Citations: 85
+PDF URL: https://doi.org/10.1063/5.0015672
+
+Abstract:
+No abstract available

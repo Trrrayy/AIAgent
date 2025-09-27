@@ -1,0 +1,11 @@
+Title: Application of Machine Learning to support production planning of a food industry in the context of waste generation under uncertainty
+Authors: Alberto Garre, M. Carmen Ruiz, Eloy Hontoria
+Journal: Operations Research Perspectives
+Publication Date: 2020-01-01
+DOI: 10.1016/j.orp.2020.100147
+OpenAlex ID: https://openalex.org/W3007662342
+Citations: 84
+PDF URL: https://doi.org/10.1016/j.orp.2020.100147
+
+Abstract:
+No abstract available

@@ -1,0 +1,11 @@
+Title: Recent Advances and Applications of Machine Learning in Experimental Solid Mechanics: A Review
+Authors: Hanxun Jin, Enrui Zhang, Horacio D. Espinosa
+Journal: Applied Mechanics Reviews
+Publication Date: 2023-07-17
+DOI: 10.1115/1.4062966
+OpenAlex ID: https://openalex.org/W4384525023
+Citations: 84
+PDF URL: https://doi.org/10.1115/1.4062966
+
+Abstract:
+No abstract available

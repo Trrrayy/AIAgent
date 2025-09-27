@@ -1,0 +1,11 @@
+Title: Maximum likelihood Bayesian averaging of spatial variability models in unsaturated fractured tuff
+Authors: Ming Ye, Shlomo P. Neuman, Philip D. Meyer
+Journal: Water Resources Research
+Publication Date: 2004-05-01
+DOI: 10.1029/2003wr002557
+OpenAlex ID: https://openalex.org/W2155844565
+Citations: 217
+PDF URL: https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2003WR002557
+
+Abstract:
+No abstract available

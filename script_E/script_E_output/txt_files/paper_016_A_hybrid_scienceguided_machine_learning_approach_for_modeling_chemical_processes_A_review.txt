@@ -1,0 +1,11 @@
+Title: A hybrid science‐guided machine learning approach for modeling chemical processes: A review
+Authors: Niket Sharma, Y. A. Liu
+Journal: AIChE Journal
+Publication Date: 2022-01-23
+DOI: 10.1002/aic.17609
+OpenAlex ID: https://openalex.org/W4206927419
+Citations: 106
+PDF URL: https://doi.org/10.1002/aic.17609
+
+Abstract:
+No abstract available

@@ -1,0 +1,11 @@
+Title: Spatiotemporal continuous estimates of PM2.5 concentrations in China, 2000–2016: A machine learning method with inputs from satellites, chemical transport model, and ground observations
+Authors: Tao Xue, Yixuan Zheng, Dan Tong, Bo Zheng, Xin Li
+Journal: Environment International
+Publication Date: 2018-12-18
+DOI: 10.1016/j.envint.2018.11.075
+OpenAlex ID: https://openalex.org/W2904851601
+Citations: 300
+PDF URL: https://doi.org/10.1016/j.envint.2018.11.075
+
+Abstract:
+No abstract available

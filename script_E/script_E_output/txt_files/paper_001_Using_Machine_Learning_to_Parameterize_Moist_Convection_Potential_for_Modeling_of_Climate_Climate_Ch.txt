@@ -1,0 +1,11 @@
+Title: Using Machine Learning to Parameterize Moist Convection: Potential for Modeling of Climate, Climate Change, and Extreme Events
+Authors: Paul A. O’Gorman, J. G. Dwyer
+Journal: Journal of Advances in Modeling Earth Systems
+Publication Date: 2018-10-01
+DOI: 10.1029/2018ms001351
+OpenAlex ID: https://openalex.org/W3105945687
+Citations: 418
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2018MS001351
+
+Abstract:
+No abstract available

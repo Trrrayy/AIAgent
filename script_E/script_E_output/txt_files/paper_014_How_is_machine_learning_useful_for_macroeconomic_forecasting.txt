@@ -1,0 +1,11 @@
+Title: How is machine learning useful for macroeconomic forecasting?
+Authors: Philippe Goulet Coulombe, Maxime Leroux, Dalibor Stevanović, Stéphane Surprenant
+Journal: Journal of Applied Econometrics
+Publication Date: 2022-05-14
+DOI: 10.1002/jae.2910
+OpenAlex ID: https://openalex.org/W2996608372
+Citations: 150
+PDF URL: https://doi.org/10.1002/jae.2910
+
+Abstract:
+No abstract available

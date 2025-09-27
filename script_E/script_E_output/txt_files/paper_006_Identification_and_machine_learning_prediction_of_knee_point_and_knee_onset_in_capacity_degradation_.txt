@@ -1,0 +1,11 @@
+Title: Identification and machine learning prediction of knee-point and knee-onset in capacity degradation curves of lithium-ion cells
+Authors: Paula Fermín-Cueto, Euan McTurk, Michael Allerhand, Encarni Medina-López, Miguel F. Anjos
+Journal: Energy and AI
+Publication Date: 2020-04-23
+DOI: 10.1016/j.egyai.2020.100006
+OpenAlex ID: https://openalex.org/W3017990358
+Citations: 229
+PDF URL: https://doi.org/10.1016/j.egyai.2020.100006
+
+Abstract:
+No abstract available

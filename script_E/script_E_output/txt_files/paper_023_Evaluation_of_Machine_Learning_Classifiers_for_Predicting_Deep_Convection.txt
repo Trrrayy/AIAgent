@@ -1,0 +1,11 @@
+Title: Evaluation of Machine Learning Classifiers for Predicting Deep Convection
+Authors: Peter Ukkonen, Antti Mäkelä
+Journal: Journal of Advances in Modeling Earth Systems
+Publication Date: 2019-05-09
+DOI: 10.1029/2018ms001561
+OpenAlex ID: https://openalex.org/W2944123510
+Citations: 80
+PDF URL: https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2018MS001561
+
+Abstract:
+No abstract available

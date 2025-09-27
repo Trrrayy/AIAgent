@@ -1,0 +1,11 @@
+Title: Uncertainty-driven dynamics for active learning of interatomic potentials
+Authors: Maksim Kulichenko, Kipton Barros, Nicholas Lubbers, Ying Wai Li, Richard A. Messerly
+Journal: Nature Computational Science
+Publication Date: 2023-03-06
+DOI: 10.1038/s43588-023-00406-5
+OpenAlex ID: https://openalex.org/W4323320070
+Citations: 88
+PDF URL: https://www.nature.com/articles/s43588-023-00406-5.pdf
+
+Abstract:
+No abstract available
