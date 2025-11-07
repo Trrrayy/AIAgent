@@ -1,0 +1,55 @@
+# Topic: 抗生素 (last 21 days) — 2025-11-07
+
+## Key takeaways
+- Extractive summary (lead-3); no API key required.
+
+### 1. [三軍總醫院搶先響應世界抗生素認知週 籲正視抗藥性所帶來的「無聲流行病」 - 優活健康網](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TUjgta2Jkc0t5V1dZaTRDMndPS2xnczhsRFFJLUxBRHJiYktiNzgzdm41dHpxUFpkdVliYzViNlQtTHF0bjZySkdYcUJudFg5LVhr?oc=5)
+*Published:* Wed, 22 Oct 2025 07:00:00 GMT
+
+- 三軍總醫院搶先響應世界抗生素認知週 籲正視抗藥性所帶來的「無聲流行病」&nbsp;&nbsp;優活健康網
+
+### 2. [世衛： 1/6細菌感染出現「抗生素抗藥性」 每年百萬人死亡成全球危機 - healthnews.com.tw](https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6dHh6VkprcC1oNkRjX0h4dDNVVlRYZlZWalk0WGNYeDFuUktzMGpvTmVyeG5aVnVnTWl2Z0lVSVh1ekhzbm5jUE5WTUFaWGdHS2N0WUNB?oc=5)
+*Published:* Mon, 27 Oct 2025 03:00:00 GMT
+
+- 世衛： 1/6細菌感染出現「抗生素抗藥性」 每年百萬人死亡成全球危機&nbsp;&nbsp;healthnews.com.tw
+
+### 3. [長輩用抗生素當心！3因素更容易有不良反應　專家揭安全用藥守則 - ETtoday健康雲](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4OWhlSGhLYVYxOXlZRlljX2ZOTDVNTklZN0RfeDUyaDJBNWhOX3NsT3pqLWFaQWRoc1RmZnFGd1B2aE5saWMxSHJRNkRPcTBa0gFsQVVfeXFMTlBTT3NVdHFWMXhQU0gwTXd4NmdFa2FVV21uZ3dmQVFlX1FqbjM0ekpSWGFySkdYOWJHNDhpaWVQU2ZiTzg1clhzTTBLYlRmM2hQTndXRHBJa0hrVVdKRmNEeE5mc2Y2V09tTTNp?oc=5)
+*Published:* Fri, 24 Oct 2025 07:00:00 GMT
+
+- 長輩用抗生素當心！3因素更容易有不良反應　專家揭安全用藥守則&nbsp;&nbsp;ETtoday健康雲
+
+### 4. [有民眾將抗生素當消炎藥用，黃彥儒指出，抗生素是藉由殺死細菌來減輕感染部位的發炎反應，而感冒是病毒引起上呼吸道感染，不是細菌引起，所以感冒不需要優先使用抗生素。 - facebook.com](https://news.google.com/rss/articles/CBMi1wdBVV95cUxNZ3ZaSmtkTE96YWFIbDIzdHRycGx6VzEyQW55MUpxYm9fa0dGQTM2YnVRa04tTXctVUJzdHpkNVFYenk4Mnd0SnlJbV9RMkdVd1JobURZUEZSWkdyZldRdlJFTzRndm5GUEFMUmNSOUt1VGNyRmhFZTNwUFJ4a2JhNlhKUDEyNmhrWWVnYjhIdW01WmJhSVNCLWRqckw2aWxHMDUyZDY4djdBVUlDQmUtSmNlUEFXcnhpQjhNOVpCQ1BaUW0yUHBINWxvQ3NNSWZhdXZVcWtSQXZGLUxnVWxCS0JkR0pvRUdFS1F0U25GRmx2VHQtX3J1allxNUN2VTRzTllvTTNMX3RRRWo5LXZwQkoyLThkc1VZRXZnVGhDdVJMV3BOMEVxQ0tIbzJWbzdUbE45dUhLcURJTEpqZ0ZhVDZrNWUyLVlUNTZEbVJDSXBJN3VKTVktZ2JKbHo0V0tqd3VTSVVJb3Y1SW5oNVgwTDJsWDVLa3FZRVVuY1pkUl83NWlfeGYxT0pmZEtDdHR6YjJqazZZOTVFazNKc3JvcnBiOEpRbGxmcU5oazhUaXVOMVdIZ0d1eW5RdWtLN3JpQWdJa05scEJMTm1USTZIMEkyQ0VjMXJQTFN3MEhZeWNISVl2blllSWtKcllVWU1JOXVfb19tSXEtbDBXMFRWWHV2LWdLVUJQYWdyc204Q3FtcHdrOGUwOHg1WFdkT3dYMjkyOEV2OXkyb0xwREk4ekdKZ2ZyY3NwdTgwQ0E5d0NRNzBpaVpvSlBYTmd1QWdJQjFfMUY5Nm1malI5VTFKYm4zWjB6OW4tcHdpX2stb0ZxMUxyU2tUd19kU09IYzdFZTQyczNBR2hsdGtrSmtQU0F1TDFWbGxvdzJHd0J3OVJfTTRvTFJUbjJOVURIUW8taWxJZWpKMmhrUTM2bGN5Z0lVV29kdEJqNUhlVmVQa3Z0d3dEMmw4eXpzYVVFLXhWSklBZm9INkRXdzA5ZEd6bGZPN09GUzVhVXJNcWZFYXlneDYxZjZ0cjNNRXdEN2RNa2ZZZTlxMmlxMFFBMmR3S3c1dUZ4ZnRJcFM2amtoaTNQdmVsTDd6cW03WGJFR0hjSURHQ1JpM1I0MXUyVmJ4ZW14eVNQTm1hTDZtSF9wclgwQ0pPRzVWcm1kdk9UTVVfbFI3SXUyZjNqRFlVZWtTRmxJczRYX2tyN2JUbTJheGhxT0lzQVBWbk02b0lfNW04dWhXbFlBbW1ua0R4LXdDaUhjU1UycDEzenpwMHVuYXhyUWMyTVRWUEJ5OUtQZ0JXa0wxeGpSdw?oc=5)
+*Published:* Thu, 06 Nov 2025 14:00:31 GMT
+
+- 有民眾將抗生素當消炎藥用，黃彥儒指出，抗生素是藉由殺死細菌來減輕感染部位的發炎反應，而感冒是病毒引起上呼吸道感染，不是細菌引起，所以感冒不需要優先使用抗生素。&nbsp;&nbsp;faceboo
+k.com
+
+### 5. [衛福部11月新制試管嬰兒補助最高15萬元、抗生素可回家打| 生活 - 中央社 CNA](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QNG05SFpFUEFmel9EUG40WHpHNVJzQ3BjbnRzd2ZQMGk2Y3phejJXdkgzaDRCdVlFcUdFdTRUOEVOV28zd051VEZlNEZWaXdvTWpLNjlKU3AzOGhBNXpF?oc=5)
+*Published:* Thu, 30 Oct 2025 03:48:00 GMT
+
+- 衛福部11月新制試管嬰兒補助最高15萬元、抗生素可回家打| 生活&nbsp;&nbsp;中央社 CNA
+
+### 6. [抗生素天生就不是一門好生意？一針藥竟比珍奶還便宜! 第一線權威醫師曝「缺藥危機的3大真相」！ - 優分析UAnalyze](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpdnpid0k1WFF4Z1JrN25FWFZqM0ZCMkFPTElpYjByM3V5X1BCT0ViU0lhR1JIRXJnenRZSE9FcmtFTms5cWZxODNnOVEyZ2VyVnFaTzJn?oc=5)
+*Published:* Sat, 18 Oct 2025 07:00:00 GMT
+
+- 抗生素天生就不是一門好生意？一針藥竟比珍奶還便宜! 第一線權威醫師曝「缺藥危機的3大真相」！&nbsp;&nbsp;優分析UAnalyze
+
+### 7. [藥害救濟案件占一半 老人家用「抗生素」注意四要點！ - 奇摩新聞](https://news.google.com/rss/articles/CBMiyAJBVV95cUxQb3dvLWMteVJ3RU9UcEhoWXZFSk50ZTFCd3d5Ylc0Y2FJM1dLcmtwbElJTS1nWU84d0kyTmRPLUV4cGxvQ3ZyRlRjZjZPUE5qQWZtNlZUdHZ3eGgtNTF5eE01SmJQYU1aR2xQdXR0LWRHbGNXdElUbHhjbkhOU0VEcUFTbXVHUXNqMWdvSUdLTWY5eUI5M2Y3WWFVSTRjS3NCYWZVQ3BOc2dJeWRmZXZCeHZUanFfU3NzbU1md0oyTnRKX2hNWEh0NzhOeXJtV3U1dE94d3I2dFlQTjlTSmZPUEJ6ZnJpcDhZMzBBTXlBNmREWi1CZ0xXZGVvY2lXZWJTLVg1TEZNaXliUEFXYy1TM1RMa2FaT2dWZm9zQXl5eWVmN0lGYjBQRGJpYjU3a1A4emJTQUJ5TWlJOUo5YzJwMk9KenBRUWxK?oc=5)
+*Published:* Fri, 24 Oct 2025 07:00:00 GMT
+
+- 藥害救濟案件占一半 老人家用「抗生素」注意四要點！&nbsp;&nbsp;奇摩新聞
+
+### 8. [健康網》鼻竇炎不一定要吃抗生素 日常照護4法助緩解 - 自由健康網](https://news.google.com/rss/articles/CBMiZEFVX3lxTE54MnNBT0h4TDFiVk9WQzgtc0NhU0dWdVBVTy11dWxBWWFlaG43LXd5a3BKc016dE5rUFFSTG9qZnFoSTFhRE9OMkdBM2ZYcmVQZENIQk5JNDZ4TXFQelY2VTVlQUjSAWpBVV95cUxOckFfVW1pR2dZMkRzUk5QSlRnR3c2S25YZmRMU1ROaGp3QUNSLVRLV0NGNTZmZFl0UGRJMFY2Sm9wVExURUtBSHBvaENKLTdMMEs5ZXp2dWlzd3B2UXplcnhnanoyV2NXb0lR?oc=5)
+*Published:* Mon, 20 Oct 2025 07:00:00 GMT
+
+- 健康網》鼻竇炎不一定要吃抗生素 日常照護4法助緩解&nbsp;&nbsp;自由健康網
+
+
+---
+### Methods
+- Source: Google News RSS (topic + when:21d, locale=zh-TW, region=TW, ceid=TW:zh-Hant)
+- Download: requests(timeout=10s), fallback to trafilatura.fetch_url()
+- Extraction: trafilatura; fallback to RSS summary if body too short (<250)
+- Dedup: (host, normalized title)
+- Summarization: extractive lead-3
+- Reproducibility: deterministic; stable re-runs

@@ -1,0 +1,3 @@
+Research summary for 'ExampleCorp':
+- ExampleCorp is a fictional company focused on machine learning education.
+- It builds developer tools, data science platforms, and educational AI assistants.
